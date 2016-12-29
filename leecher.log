@@ -1,0 +1,23 @@
+2016-12-28 17:16:57 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-12-28 17:17:11 leecher.py[line:71] INFO Load cookies from cookie file: {u'GKEY': u'eab5f690b3f2c670402422c5c508e316', u'GINFO': u'uid%3D4577507%26nickname%3Dferrero_zhang%26group_id%3D1%26avatar_t%3Dhttp%3A%2F%2Ftu.rrsub.com%2Fftp%2Favatar%2Ff_noavatar_t.gif%26main_group_id%3D0%26common_group_id%3D52', u'PHPSESSID': u'akp02vlhuo68ebgf8is7v7v0s4'}
+2016-12-28 17:17:11 connectionpool.py[line:207] INFO Starting new HTTP connection (1): www.zimuzu.tv
+2016-12-28 17:17:13 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:13 leecher.py[line:136] INFO Resource list: 汽车总动员
+2016-12-28 17:17:13 leecher.py[line:145] INFO Start searching subtitle download link since 2016-12-28 10:58
+2016-12-28 17:17:13 leecher.py[line:162] INFO Searching for: 汽车总动员
+2016-12-28 17:17:13 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:14 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:14 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26433
+2016-12-28 17:17:14 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:15 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26413
+2016-12-28 17:17:15 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:15 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26275
+2016-12-28 17:17:15 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:15 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/21716
+2016-12-28 17:17:15 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:16 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/17718
+2016-12-28 17:17:16 connectionpool.py[line:242] INFO Resetting dropped connection: www.zimuzu.tv
+2016-12-28 17:17:16 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/17716
+2016-12-28 17:17:16 leecher.py[line:188] INFO Check next page
+2016-12-28 17:17:16 leecher.py[line:151] INFO Update the history-since time in config file.
+2016-12-28 17:17:16 _internal.py[line:87] INFO 127.0.0.1 - - [28/Dec/2016 17:17:16] "GET /search?keyword=%E6%B1%BD%E8%BD%A6%E6%80%BB%E5%8A%A8%E5%91%98 HTTP/1.1" 200 -
